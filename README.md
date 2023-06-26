@@ -11,7 +11,7 @@ There you will find:
 * Number of cases and deaths  by continent;
 * Top 10 countries on number of cases and deaths in the last 7 days;
 * Top 10 countries on number ofcases and deaths by every 100.000 people (population ratio);
-* Date related moving averages for number of cases and deaths, total and by country;
+* Date related moving averages for number of cases and deaths and mortality rate, total and by country;
 * Rank of countries by number of cases and deaths.
 
 Thank you.
