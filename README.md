@@ -1,5 +1,5 @@
 # Covid-19---Power-BI-Dashboard
-A Covid-19 Power BI Dashboard, using (CSV) dataset extracted from World Health Organization official website (WHO - https://covid19.who.int/data), automaticaly updated every Wednesday
+A Covid-19 Power BI Dashboard, using (CSV) dataset extracted from World Health Organization official website (WHO - https://covid19.who.int/data), API(WHO) automatically updated every Wednesday.
 
 I'd like to kindly offer this interactive Power BI Dashboard to everyone interested on overall Covid-19 situation around the world, through the link below. Please feel free to share it.
 
